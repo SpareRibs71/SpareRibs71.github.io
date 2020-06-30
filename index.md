@@ -15,3 +15,5 @@ Alles endet in einem Showdown.
 
 Terminator sagt:
 > Hasta la vista, Baby
+
+<img src="https://images-na.ssl-images-amazon.com/images/I/61xJz8S3zEL._SL1200_.jpg"/>
