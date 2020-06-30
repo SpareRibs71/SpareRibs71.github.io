@@ -12,3 +12,6 @@ Alles endet in einem Showdown.
 * Schüchtern
 * Sparsam
 * Diszipliniert
+
+Terminator sagt:
+> Hasta la vista, Baby
